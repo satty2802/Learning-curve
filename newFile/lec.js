@@ -15,5 +15,8 @@ accountPassword = 11631 // variable can be assigned without using any keyword bu
 // null => standalone value
 // undefined
 //symbol=>uniquess
+console.log("2"===2) //checks datatypes also
+console.log("2"==2)
 console.log(null>=0);
+
 
