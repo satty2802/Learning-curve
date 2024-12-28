@@ -30,6 +30,6 @@ const myDate = new Date("01-28-2025");
 console.log(myDate.toLocaleString());
 
 let time =  Date.now()
-console.log(myDate.getTime());
+console.log(myDate.getHours());
 console.log(myDate.toLocaleString('default',{weekday: "narrow"}));
 
